@@ -1,0 +1,59 @@
+@font-face {
+font-family: 'Tertre Extra Bold';
+font-style: normal;
+font-weight: normal;
+src: local('Tertre Extra Bold'), url('tertre-xbol.woff') format('woff');
+}
+
+
+a {
+    text-decoration: none;
+}
+
+.main-header{
+  padding-top: 15px;
+  height: 120px;
+  background-color: #000000;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-title{
+  font-family: 'Tertre Extra Bold';
+  font-weight: 200;
+  font-size: 34px;
+  color: #d1d949;
+}
+
+.main-header nav a{
+  font-family: 'Tertre Extra Bold';
+  font-weight: 200;
+  font-size: 17px;
+  color: #F4E7E7;
+}
+
+.container{
+}
+
+.container header{
+  background: url('./bg-container.jpg') no-repeat;
+  background-size: cover;
+}
+
+.container header h1{
+  font-family: 'Tertre Extra Bold';
+  font-weight: 200;
+  color: #d1d949;
+  font-size: 60px;
+  margin: 0;
+}
+
+.container header p{
+  font-family: 'Tertre Extra Bold';
+  font-weight: 200;
+  color: #F4E7E7;
+  font-size: 24px;
+  margin: 0;
+}

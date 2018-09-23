@@ -1,0 +1,20 @@
+.searchBox{
+	margin: 0 auto;
+	width: 60%;
+}
+
+.searchBox input[type='text']{
+  font-family: 'Tertre Extra Bold';
+  font-weight: 200;
+  color: #000000;
+  font-size: 24px;
+  background: #FAFAFA;
+}
+
+.searchBox input[type='button']{
+  font-family: 'Tertre Extra Bold';
+  font-weight: 200;
+  font-size: 24px;
+  color: #d1d949;
+  background-color: #000000
+}
